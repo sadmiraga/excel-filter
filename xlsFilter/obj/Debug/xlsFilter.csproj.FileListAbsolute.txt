@@ -8,3 +8,12 @@ C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilt
 C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilter.csproj.CoreCompileInputs.cache
 C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilter.exe
 C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilter.pdb
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilter.csproj.ResolveComReference.cache
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\bin\Debug\EPPlus.dll
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\bin\Debug\EPPlus.xml
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilter.csproj.CopyComplete
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\bin\Debug\Aspose.Cells.dll
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\bin\Debug\Aspose.Cells.xml
