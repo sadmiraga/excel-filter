@@ -1,0 +1,10 @@
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\bin\Debug\xlsFilter.exe.config
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\bin\Debug\xlsFilter.exe
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\bin\Debug\xlsFilter.pdb
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilter.csprojAssemblyReference.cache
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilter.Form1.resources
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilter.Properties.Resources.resources
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilter.csproj.GenerateResource.cache
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilter.csproj.CoreCompileInputs.cache
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilter.exe
+C:\Users\vela\Desktop\web center\12.5.2021\xlsFilter\xlsFilter\obj\Debug\xlsFilter.pdb
